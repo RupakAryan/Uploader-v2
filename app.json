@@ -23,7 +23,7 @@
     },
     "BOT_TOKEN": {
       "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
-      "value": "8464714544:AAGqhU3wggxPM2nOPAUFL9YoV9kac5pf5FQ",
+      "value": "",
       "required": true
     },
     "OWNER": {
